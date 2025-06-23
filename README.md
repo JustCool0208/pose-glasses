@@ -54,10 +54,11 @@ cd pose-glasses
 2. Run Locally <br>
 Just open index.html in a browser (Chrome recommended). <br>
 Make sure your camera is connected and accessible. <br>
+## DEMO 
+![image](https://github.com/user-attachments/assets/e2a49d50-5648-4cdc-8a84-418157d2cb90)
+#### DO TEST OUT THE LIVE WEBSITE VERSION
 
 
-
-✍️ Author
 <br>
 Made by Rohith A M 
  <br>
